@@ -1,5 +1,5 @@
 # Bulk Certi
-I work for ndian Society For Technical Education Students' Chapter MANIT.
+I work for Indian Society For Technical Education Students' Chapter MANIT.
 Due to covid, we took all our events online and hence had to mail alot of certificates to participants in bulk. So, i came up with this script as a solution.
 
 Using this python script, you can generate e-Certificates in bulk and email them to participants.
